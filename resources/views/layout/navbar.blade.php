@@ -2,7 +2,7 @@
     <div class="top-menu border-bottom">
         <div class="container">
             <nav class="navbar navbar-expand">
-                <div class="shiping-title text-uppercase font-13 text-white d-none d-sm-flex">Welcome to our eTrans store!</div>
+                <div class="shiping-title text-uppercase font-13 text-white d-none d-sm-flex">Welcome to our Current Tech store!</div>
                 <ul class="navbar-nav ms-auto d-none d-lg-flex">
                     <li class="nav-item"> <a class="nav-link" href="/orderTracking">Track Order</a>
                     </li>
